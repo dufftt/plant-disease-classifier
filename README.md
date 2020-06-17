@@ -1,1 +1,1 @@
-# plant-disease-classifier
+# plant-disease-detector
